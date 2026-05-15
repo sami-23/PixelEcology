@@ -58,12 +58,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](screenshot.png)
-
----
-
 ## 🙌 Credits
 
 Built by **Sami Malik** using **Claude** (Anthropic) + **GPT-4o** (OpenAI) via [Project Factory](https://github.com/sami-23)
